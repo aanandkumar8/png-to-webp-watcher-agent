@@ -33,13 +33,8 @@ conversion-folder/
 
 ### 1. Clone or download this project
 ```bash
-<<<<<<< HEAD
-git clone https://github.com/your-username/conversion-folder.git
-cd conversion-folder
-=======
 git clone https://github.com/aanandkumar8/png-to-webp-watcher-agent.git
 cd png-to-webp-watcher-agent
->>>>>>> 2b68a000b670c95bdbc0c7332fa822194c6347bb
 ```
 
 ### 2. Install dependencies
