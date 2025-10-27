@@ -1,0 +1,24 @@
+{
+  "name": "conversion-folder",
+  "version": "1.0.0",
+  "description": "Auto converts PNG files to WebP when added to input folder",
+  "main": "agent.js",
+  "type": "module",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "keywords": [
+    "image",
+    "converter",
+    "webp",
+    "automation"
+  ],
+  "author": "Anand Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "imagemin": "^9.0.1",
+    "imagemin-webp": "^8.0.0",
+    "sharp": "^0.34.4"
+  }
+}
